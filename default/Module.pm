@@ -1,7 +1,6 @@
 package {{$name}};
 
 # ABSTRACT:
-
 use strict;
 use warnings;
 
